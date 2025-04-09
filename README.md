@@ -29,7 +29,6 @@ pip install -r requirements.txt
 # Run the API
 uvicorn app.main:app --reload
 
----
 ```
 
 ## 📌 License
