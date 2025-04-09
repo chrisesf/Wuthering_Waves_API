@@ -3,6 +3,11 @@
 A simple Wuthering Waves API focused on character progression — ascension items, skill details, and resonance chains.  
 For now...
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7a/e5/c3/7ae5c335819cffea1cbdf982d78a7fc7.gif" alt="Wuthering Waves" width="600"/>
+</p>
+
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Status](https://img.shields.io/badge/status-WIP-orange)
