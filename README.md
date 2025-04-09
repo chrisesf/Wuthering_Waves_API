@@ -1,2 +1,2 @@
-# WutheringWavesAPI
+# Wuthering Waves API
 A simple Wuthering Waves API focused on character progression — ascension items, skill details, and resonance chains. For now...
