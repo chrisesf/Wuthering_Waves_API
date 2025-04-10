@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+pydantic-settings
+alembic
+sphinx
+sphinx-autodoc-typehints
+sphinx_rtd_theme
