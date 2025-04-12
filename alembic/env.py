@@ -19,6 +19,7 @@ from src.database import Base
 
 # Importa todos os models aqui!
 from src.resonators.models import Resonator
+from src.resonators.models import ResonatorStatsPerLevel
 from src.factions.models import Faction
 
 # Config Alembic
