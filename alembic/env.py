@@ -18,9 +18,9 @@ from src.config import settings
 from src.database import Base
 
 # Importa todos os models aqui!
-from src.resonators.models import Resonator
-from src.resonators.models import ResonatorStatsPerLevel
-from src.factions.models import Faction
+from src.resonators.models import *
+from src.factions.models import *
+from src.weapons.models import *
 
 # Config Alembic
 config = context.config
