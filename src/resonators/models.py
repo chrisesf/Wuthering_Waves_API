@@ -125,7 +125,8 @@ class ResonanceChain(Base):
     resonator_id: Mapped[int] = mapped_column(
         ForeignKey("resonators.id", ondelete="CASCADE")
     )
-    
+    description: Mapped[str] = mapped_column(Text, nullable=True)
+
     created_at: Mapped[datetime] = mapped_column(
         DateTime, default=func.now(), nullable=False
     )
