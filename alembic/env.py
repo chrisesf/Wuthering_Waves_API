@@ -21,6 +21,7 @@ from src.database import Base
 from src.resonators.models import *
 from src.factions.models import *
 from src.weapons.models import *
+from src.items.models import *
 
 # Config Alembic
 config = context.config
